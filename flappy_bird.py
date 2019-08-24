@@ -1,6 +1,5 @@
 """
-The classic game of flappy bird. Make with python
-and pygame. Features pixel perfect collision using masks :o
+The classic game of flappy bird. Made with python. 
 
 Date Modified:  Jul 30, 2019
 Author: Sriharsha Kanumilli 
